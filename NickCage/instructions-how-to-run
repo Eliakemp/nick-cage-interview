@@ -1,0 +1,5 @@
+1. Clone repo 
+2. open terminal 
+3.  Make sure you have the correct dependencies: pip(or pip3) install pandas matplotlib wordcloud streamlit
+4. run the command: streamlit run nickthecage.py
+5. Enjoy!
