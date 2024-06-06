@@ -36,7 +36,7 @@ st.title("Nicolas Cage Filmography")
 st.markdown("""
 ## Introduction
 Welcome to the Nicolas Cage Filmography insight page!
-**Note**: You can find the [GitHub repository](your_github_repository_link) for this project here.
+**Note**: You can find the [GitHub repository](https://github.com/Eliakemp/nick-cage-interview) for this project here.
 """)
 
 st.header("Movies per year")
